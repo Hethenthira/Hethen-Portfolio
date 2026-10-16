@@ -1,4 +1,5 @@
 import { useState } from 'react';
+import { Analytics } from '@vercel/analytics/react';
 
 function App() {
   const [isMenuOpen, setIsMenuOpen] = useState(false);
@@ -11,6 +12,7 @@ function App() {
 
   return (
     <>
+    <Analytics />
 <header className="site-header">
     <div className="container nav-wrap">
       <a className="brand" href="#home" aria-label="Hethen Gokul home">HG<span>.</span></a>
