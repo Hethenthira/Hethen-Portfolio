@@ -37,16 +37,16 @@ function App() {
       <div className="container hero-inner">
         <p className="eyebrow">Computer Science &amp; Engineering Graduate</p>
         <h1>Hi, I’m Hethen.<br /><span>I build with curiosity.</span></h1>
-        <p className="hero-lede">Entry-level software developer with hands-on project experience across web and mobile development, Java, and database systems. Interested in building practical software and growing within a collaborative team.</p>
+        <p className="hero-lede">Entry-level software developer with hands-on project experience in web development, Java, and database systems. Interested in building practical, user-friendly software solutions for businesses and clients while continuously improving technical skills and collaborating effectively with teams.</p>
         <div className="hero-actions"><a className="button button-primary" href="#projects">Explore my work <i className="fa-solid fa-arrow-right"></i></a><a className="button button-secondary" href="#contact">Get in touch</a></div>
-        <div className="quick-facts"><span><i className="fa-solid fa-location-dot"></i> Tiruppur, Tamil Nadu</span><span><i className="fa-solid fa-graduation-cap"></i> B.E. in Computer Science and Engineering</span><span><i className="fa-solid fa-star"></i> CGPA 8.1</span></div>
+        <div className="quick-facts"><span><i className="fa-solid fa-location-dot"></i> Tiruppur, Tamil Nadu</span><span><i className="fa-solid fa-graduation-cap"></i> B.E. in Computer Science and Engineering</span><span><i className="fa-solid fa-star"></i> CGPA 7.77</span></div>
       </div>
     </section>
 
     <section id="about">
       <div className="container">
         <div className="section-heading"><p className="section-kicker">A little about me</p><h2>Learning by building</h2></div>
-        <div className="about-copy"><p>I’m a Computer Science and Engineering graduate from Shree Venkateshwara Hi-Tech Engineering College, where I completed a B.E. in Computer Science and Engineering with a CGPA of 8.1. My interests include full-stack development, UI/UX design, and database management.</p><p>My project work includes an e-waste recycling platform and an alumni networking platform. I also completed a Java full-stack development internship, where I practiced object-oriented programming, exception handling, and file operations.</p></div>
+        <div className="about-copy"><p>I’m a Computer Science and Engineering graduate from Shree Venkateshwara Hi-Tech Engineering College, where I completed a B.E. in Computer Science and Engineering with a CGPA of 7.77. My interests include full-stack development, UI/UX design, and database management.</p><p>My project work includes an e-waste recycling platform and an alumni networking platform. I also completed a Java full-stack development internship, where I practiced object-oriented programming, exception handling, and file operations.</p></div>
       </div>
     </section>
 
